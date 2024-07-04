@@ -1,4 +1,5 @@
 ### Hi there 👋
+### I'm currently an undergraduate student at Peking University. My research interest broadly lies in self-supervised learning and reinforcement learning. 
 
 <!--
 **kaotty/kaotty** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
